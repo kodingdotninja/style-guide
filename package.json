@@ -68,6 +68,9 @@
     "style-guide",
     "tsconfig"
   ],
+  "publishConfig": {
+    "access": "public"
+  },
   "prettier": "./prettier",
   "license": "MPL"
 }
