@@ -68,10 +68,6 @@
     "style-guide",
     "tsconfig"
   ],
-  "publishConfig": {
-    "access": "restricted",
-    "registry": "https://npm.pkg.github.com"
-  },
   "prettier": "./prettier",
   "license": "MPL"
 }
