@@ -1,7 +1,7 @@
 {
   "name": "@kodingdotninja/style-guide",
   "description": "ESLint and Prettier style guide for various Koding Ninja projects 🤙",
-  "version": "4.0.0",
+  "version": "4.0.1",
   "author": "Griko Nibras <griko@koding.ninja>",
   "repository": "https://github.com/kodingdotninja/style-guide",
   "homepage": "https://github.com/kodingdotninja/style-guide",
